@@ -10,3 +10,5 @@ dependencies
 
 - curl: to fetch the data
 - jq: to filter out just the file names
+
+see <https://bauherren.ovh/dump/kode/christos/werc/tpl/mirror/> for an example
